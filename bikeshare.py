@@ -8,7 +8,7 @@ CITY_DATA = { 'chicago': 'chicago.csv',
 # we define a function to let us explore bikeshare for the three cities
 def get_filters():
     """
-    Asks user to specify a city, month, and day to analyze.
+    Please specify the city, month, and day to analyze.
 
     Returns:
         (str) city - name of the city to analyze
