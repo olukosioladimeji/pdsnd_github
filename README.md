@@ -6,7 +6,7 @@
 ### Project Title
 Bikeshare analysis using Python libraries and code
 ### Description
-Describe what your project is about and what it does
+We explore some US cities bikeshare data for chicago, new york and washington.
 
 ### Files used
 Include the files used
